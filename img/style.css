@@ -1,0 +1,35 @@
+body,html {
+    margin: auto;
+    border: solid 20px;
+    background-color: cadetblue;
+}
+
+#destaque{
+    background-image: url(neon\ b5.jpg);
+    background-size: cover;
+    text-align: center;
+    color: chartreuse; 
+    height: 300px;
+}
+
+.item{
+    width: 20%;
+    float: left;
+    text-align: center;
+    padding: 2%;
+} 
+
+img{
+    border-radius: 50%;
+    max-width: 100%;
+    border: 5px solid chartreuse;
+}
+
+footer{
+        height: 100px;
+        width: 1270px;
+        background-color: black;
+        color: white;
+        clear: both;
+        text-align: justify;
+}
